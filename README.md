@@ -5,7 +5,7 @@
 
 ## Informations
 
-Prototype Link: https://opprdev.github.io/RentString/
+Prototype Link: [opprdev.github.io/RentString](https://opprdev.github.io/RentString/)
 
 
 ### Description
